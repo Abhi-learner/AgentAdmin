@@ -8,7 +8,7 @@ flowchart TD
 
     %% Intent branching
     Intent -->|Disk Cleanup| DiskSubgraph
-    Intent -->|Memory/CPU Utilization or Other Task| TaskSubgraph[Task Subgraph (future)]
+    Intent -->|Memory/CPU Utilization or Other Task| TaskSubgraph[Task Subgraph Future]
     Intent -->|Unclear| ManualReview[Manual Review] --> End
 
     %% Disk Cleanup Subgraph
@@ -27,4 +27,3 @@ flowchart TD
         Approval -->|No| End
         Execution --> End
     end
-
