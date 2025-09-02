@@ -1,0 +1,397 @@
+{
+    "folder_path": "C:\\Users\\abhimaku\\OneDrive - AMDOCS\\Documents\\Agentic AI Learning\\AgentAdmin\\Documents",
+    "files": {
+        "test.txt": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_modified": 1756246392.0492194
+        },
+        "test.xls": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_modified": 1756247611.4157293
+        },
+        "test1.pdf": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_modified": 1756247144.9306428
+        },
+        "firstmail.msg": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_modified": 1756248970.3395734
+        },
+        "secondemail.msg": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_modified": 1756249782.2113113
+        },
+        "firsttst.pdf": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "last_modified": 1756250034.6664786
+        },
+        "testemail.msg": {
+            "hash": "64de6444cf72e045a6f2f84a1084bf0b13004675ab7c5b1119f3ae5f1090ab54",
+            "last_modified": 1756298993.500679
+        },
+        "testemail2.msg": {
+            "hash": "5e75fb28c9603b97e151feea74681108e27f8ca351c86c17207c7f78d283c08a",
+            "last_modified": 1756305545.8020065
+        },
+        "testemail3.msg": {
+            "hash": "53ac3bb80b0a5281f084b5209da76191352a21b5143a9d6f91f8a8c07ed60dce",
+            "last_modified": 1756306326.7375813
+        },
+        "testemail4.msg": {
+            "hash": "53ac3bb80b0a5281f084b5209da76191352a21b5143a9d6f91f8a8c07ed60dce",
+            "last_modified": 1756306564.367249
+        },
+        "From monitoring@company.com.msg": {
+            "hash": "a77685f62ac437a26d2335d7c88e9905bac21dc1f8fe395ec6db5d138fbcfc89",
+            "last_modified": 1756315700.5087242
+        },
+        "testemail5.msg": {
+            "hash": "0d33880397600f7c060a0103e5dbfeed30d46b9feff07c956abc2aed14d4c543",
+            "last_modified": 1756315927.5619786
+        },
+        "testemail6.msg": {
+            "hash": "f66b2edc21da69c32337252f07ab491dee6d0775d029be39eef319733dfef542",
+            "last_modified": 1756316107.2744186
+        },
+        "testemail7.msg": {
+            "hash": "0d33880397600f7c060a0103e5dbfeed30d46b9feff07c956abc2aed14d4c543",
+            "last_modified": 1756316450.6392064
+        },
+        "testemail8.msg": {
+            "hash": "5e75fb28c9603b97e151feea74681108e27f8ca351c86c17207c7f78d283c08a",
+            "last_modified": 1756316734.4682004
+        },
+        "testemail9.msg": {
+            "hash": "39b5db211e2a3efdfe42f86f5f879e8f4f0f70b61bb2905f0bd0a7fdfc2b0857",
+            "last_modified": 1756317146.9683628
+        },
+        "testemail10.msg": {
+            "hash": "12057082762185779d80f2482cf764ea9a08d999131950fbab5575283db4b24c",
+            "last_modified": 1756317554.8527434
+        },
+        "testemail11.msg": {
+            "hash": "dddaed3521565a606d0a0d382a9b7fd2d7b0b9d1052177332259b797b8a94d23",
+            "last_modified": 1756323115.567048
+        },
+        "testemail12.msg": {
+            "hash": "65764cfe43926ceecc9e7b99ab4bb9ada10c32db73bf6e2e1eae90b88776978b",
+            "last_modified": 1756324542.3410888
+        },
+        "testemail13.msg": {
+            "hash": "020c321fb7fdd01548a5990ff128592e97e26548c174144b4ef2d7a0aa8deceb",
+            "last_modified": 1756324792.6414242
+        },
+        "testemail14.msg": {
+            "hash": "882a255dd8f68e6673f6d6d748505aeb50ac790bea66aacab3e3eea596274703",
+            "last_modified": 1756325091.0741003
+        },
+        "testemail15.msg": {
+            "hash": "5b0e34643c7148a27bb0475e6d77e8568b105f56ebfdf57e0ebd06435e49a637",
+            "last_modified": 1756325589.554017
+        },
+        "testemail16.msg": {
+            "hash": "c1724718d9a86bb97b6005b24fca9065d96f036dd6ba41ca0f1b012cde3059b6",
+            "last_modified": 1756325986.298004
+        },
+        "testemail17.msg": {
+            "hash": "acbe21e092c9c4feb690d55971b23e36146fbfb28835ae50d5a00b783b974350",
+            "last_modified": 1756326471.019053
+        },
+        "testemail18.msg": {
+            "hash": "052369987b699cdc55dd129edc8c7c46b11fc39cf91b91c1cf10d73a47580719",
+            "last_modified": 1756327288.2289894
+        },
+        "testemail19.msg": {
+            "hash": "c813ab5e37374f06a01801b75a03a33f1fd34cd89f0d6eb785497b39e54e01fa",
+            "last_modified": 1756327387.1462178
+        },
+        "testemail20.msg": {
+            "hash": "3a8cc9f964920c1bfbefbe1c9e1f3e1c59989e2c1651460eb13c8051d3e0c8fc",
+            "last_modified": 1756327486.2050543
+        },
+        "testemail22.msg": {
+            "hash": "d3fc66035d994f051fef31cf1051d4a09c9b8d0c5b84d4c874ed308165fc7310",
+            "last_modified": 1756401005.9810312
+        },
+        "testemail23.msg": {
+            "hash": "2734682205b26cf0d21518b12f7775ea7603ba75627c2b9047dadd1ac0dfb606",
+            "last_modified": 1756402239.5838435
+        },
+        "testemail24.msg": {
+            "hash": "2792adacf001d6c6921f24eef1a2b72e45cdcffb0f8af1e0824946e52ebbd715",
+            "last_modified": 1756403803.33398
+        },
+        "testemail25.msg": {
+            "hash": "bf5c2af60fc438c3f70616f953b6c0c4afdc67fe388d8a352955855eaade3313",
+            "last_modified": 1756405349.1552482
+        },
+        "testemail26.msg": {
+            "hash": "3563dab5e7133bf1a2128beac9fcfe96f7e8a44a22475fb9b06052bc8f2eb257",
+            "last_modified": 1756405608.4068468
+        },
+        "testemail27.msg": {
+            "hash": "ce41e09a41f500d6615f2373b23c465a52a14301eed2cefc8f9980409821fb66",
+            "last_modified": 1756407317.5029123
+        },
+        "testemail28.msg": {
+            "hash": "38efb47fbf4de75d1a49245454df55d38a72cb4439eb56ab8a3c861e4758d675",
+            "last_modified": 1756407748.5183015
+        },
+        "testemail29.msg": {
+            "hash": "1b20c1543bf95927bc610ad2d33a9fb70e5996a872a757d9cbb7f74745518866",
+            "last_modified": 1756407826.927805
+        },
+        "testemail30.msg": {
+            "hash": "4987f1b48b32d41ce84c0ff82b5caaff82668a77ffc817a05375a06c900b6790",
+            "last_modified": 1756414792.9059877
+        },
+        "testmail31.msg": {
+            "hash": "efdcd8ed4085ec01d123b146218f4664e49dab7fda20e0027110be323dc9855e",
+            "last_modified": 1756414944.7024002
+        },
+        "testemail33.msg": {
+            "hash": "e829882398ccc969375831d2671cc3295455fcdbf1be2ece158173ae183bdb9a",
+            "last_modified": 1756415363.8646736
+        },
+        "testemail34.msg": {
+            "hash": "1137553ce30e1fced2955ff7cfc48f1f26b4ac396507e4201961880a2e6c6abc",
+            "last_modified": 1756415532.3093832
+        },
+        "testemail35.msg": {
+            "hash": "59dec87bab6579a3c2d734507a936f2c660a40eec7d009deaa0a71f6c906c984",
+            "last_modified": 1756416852.686948
+        },
+        "testemail36.msg": {
+            "hash": "64164a69f4da4561a226de7e236e1f2b3f53c75ca4b063d9cd25fc4674e2450b",
+            "last_modified": 1756417271.4174209
+        },
+        "testemail37.msg": {
+            "hash": "6ed4e97b720c810e95c2edf99b4a0d0669d4389292f624601b97746bc5eabafe",
+            "last_modified": 1756489623.489468
+        },
+        "testemail38.msg": {
+            "hash": "03cc40267938686526eeb987313bb60585f43e6ca8e7cba50a5f743de93c8c40",
+            "last_modified": 1756494274.593379
+        },
+        "testemail39.msg": {
+            "hash": "77758fdf25650cad4c626939e60a0246c07dcf3de1e3d80a5db325e19f9362c4",
+            "last_modified": 1756494442.1259549
+        },
+        "testemail40.msg": {
+            "hash": "f68db261bdaa5c2b19fb7d6cfa0cbed75b7e840f0355e41db82822c07a1fbeb2",
+            "last_modified": 1756497193.8422067
+        },
+        "testemail41.msg": {
+            "hash": "89853d3eda05415992ebe73215297d0026f6295905bda5825d0a7c5a75b0e1d5",
+            "last_modified": 1756498909.2889588
+        },
+        "testemail42.msg": {
+            "hash": "33e741026dbc214ecb943f59bcd9ea7499f8dab5ca064903e21346fe5efd831d",
+            "last_modified": 1756499202.519632
+        },
+        "testemail43.msg": {
+            "hash": "423cc5f0907766f2520693b7c4ccdf0e84825280900985ce5e547b5fb3440667",
+            "last_modified": 1756499699.2293377
+        },
+        "testemail44.msg": {
+            "hash": "bba26a28b1b1aaa41c32dfa4ab81d2d8a420ff2a3af540dda12065e60e5bfee6",
+            "last_modified": 1756499838.9074767
+        },
+        "testemail45.msg": {
+            "hash": "fa4b32f1e0e7b992ee0fd7da88732bb818822fdae728d297037c412c7fbe669a",
+            "last_modified": 1756499904.526256
+        },
+        "testemail46.msg": {
+            "hash": "c45a7d146f32f74b873845ce7b5643486ede7b12e3cd0e5e62dce50e3665264d",
+            "last_modified": 1756500750.378673
+        },
+        "testemail47.msg": {
+            "hash": "f8b467f7d28adc67ca699bd30d39aa24882cd4b97e80da2df40b008f20986db3",
+            "last_modified": 1756500832.1601436
+        },
+        "testemail48.msg": {
+            "hash": "cc8d4e4ba151d9581c53076aac223f3ce24cf3bda2bb2f2825d365f3221d3cf7",
+            "last_modified": 1756501114.008072
+        },
+        "testemail49.msg": {
+            "hash": "f2db5061f1870c8462d6e17c7c212d3a022d1c5b54516f1c29982ed0dc899a80",
+            "last_modified": 1756709472.4833407
+        },
+        "testemail50.msg": {
+            "hash": "76c89ade9b242ea525e46160caffab90c79029a27e331185f13f5288dbda9cf9",
+            "last_modified": 1756709655.7870557
+        },
+        "testemail51.msg": {
+            "hash": "6d20af6ee6271f2ca45a5b2df6b006b86b4a27339c9f3f5bbad1f4959277a980",
+            "last_modified": 1756709758.737217
+        },
+        "testemail52.msg": {
+            "hash": "f2c93ca2b54f87be0e640a2d28c672d1b1ad2266fc19662c7ceea70483baf258",
+            "last_modified": 1756709918.79467
+        },
+        "testemail53.msg": {
+            "hash": "fc36b8f728c17c2c377192d886e5783183942807e40a5bdc5a0fb1460f225a52",
+            "last_modified": 1756710336.0392296
+        },
+        "testemail54.msg": {
+            "hash": "9f62a57370ba7003f895e4d4f6eeb690eae9e9b01b60690befb64d6505dc60de",
+            "last_modified": 1756710412.106285
+        },
+        "testemail56.msg": {
+            "hash": "08e0b05d31da4d45feac3adf72241e53f4dbe2d35749f055d69233775a5614c8",
+            "last_modified": 1756710728.3092148
+        },
+        "testemail57.msg": {
+            "hash": "115619e15424da5a0f7421d123179077763d04236f39da73cdefbd21cb7efd3c",
+            "last_modified": 1756711007.2336385
+        },
+        "testemail58.msg": {
+            "hash": "26c787b7444d858e99301dd4ece2bb36f68ebee02d07a8bee1af9652e89eb949",
+            "last_modified": 1756711164.1128478
+        },
+        "testemail59.msg": {
+            "hash": "e8f5f6327759aec224d8a21df05c241789324d85d5499aa8561bbf5c1b19c8ef",
+            "last_modified": 1756711255.1189396
+        },
+        "testemail60.msg": {
+            "hash": "2a43b6d59a0ca15ec4de9fc7b7e0c97a09b56b627464834f468826832ff5e777",
+            "last_modified": 1756711360.6784022
+        },
+        "testemail61.msg": {
+            "hash": "d19fdd5003fc05c19e91983cce1d1c744a8ad2c91b0ef2b3679a650381c8d6cf",
+            "last_modified": 1756713455.884722
+        },
+        "testemail62.msg": {
+            "hash": "ff71d8df08913c7f14813c07caac7ba288b0c60bd732fc5f9809511a2828b21e",
+            "last_modified": 1756732229.2534986
+        },
+        "testemail63.msg": {
+            "hash": "14d823fa3c4438f5b5f5fed0d6a0e99a9fccf715bcaed1819fdd778073231f98",
+            "last_modified": 1756732590.5826626
+        },
+        "testemail64.msg": {
+            "hash": "64f0bf0e3b7700d63c93159c65659b114d03a9bc0423e681070ba82b5ee97ad6",
+            "last_modified": 1756749012.5783234
+        },
+        "testemail65.msg": {
+            "hash": "44956185224d39406b0dee3847bd84fa52455c2ae63d8266248926a30a510206",
+            "last_modified": 1756749262.7511742
+        },
+        "testemail66.msg": {
+            "hash": "b0b4ffc277bdf40669a667d6fb53c1f302ecfa7e44d883d4f02201ce6db2e253",
+            "last_modified": 1756751196.6918902
+        },
+        "testemail67.msg": {
+            "hash": "b0b4ffc277bdf40669a667d6fb53c1f302ecfa7e44d883d4f02201ce6db2e253",
+            "last_modified": 1756751437.0885682
+        },
+        "testemail68.msg": {
+            "hash": "078b9f191dcdc3f7da0782ca79fb34533cb380dee0b93e2efb3ceab1e0bcb4fe",
+            "last_modified": 1756752355.3565028
+        },
+        "testemail69.msg": {
+            "hash": "078b9f191dcdc3f7da0782ca79fb34533cb380dee0b93e2efb3ceab1e0bcb4fe",
+            "last_modified": 1756752769.2404294
+        },
+        "testemail70.msg": {
+            "hash": "078b9f191dcdc3f7da0782ca79fb34533cb380dee0b93e2efb3ceab1e0bcb4fe",
+            "last_modified": 1756753147.2098176
+        },
+        "testemail71.msg": {
+            "hash": "078b9f191dcdc3f7da0782ca79fb34533cb380dee0b93e2efb3ceab1e0bcb4fe",
+            "last_modified": 1756753449.8394895
+        },
+        "testemail72.msg": {
+            "hash": "622886a9e4a373fa8c5603c0bd21aae7940d42563ddc3a217eb7b32e4b107858",
+            "last_modified": 1756753683.935258
+        },
+        "testemail73.msg": {
+            "hash": "57ac936e1474535afbe5f05d3ef96aea3a1464d6aea9bfe92d58b86d96d3172e",
+            "last_modified": 1756786848.6445892
+        },
+        "testemail74.msg": {
+            "hash": "8706775cf29c897298005f742e129c4974b3ac7abda32a31c230e10bcb618fcf",
+            "last_modified": 1756791088.9119878
+        },
+        "testemail75.msg": {
+            "hash": "8706775cf29c897298005f742e129c4974b3ac7abda32a31c230e10bcb618fcf",
+            "last_modified": 1756791747.5630443
+        },
+        "testemail76.msg": {
+            "hash": "d7d6adb7a8ec5e77c9f4f23e66d6bc3f6b94e7e83fe6735c9a55d575c294e55b",
+            "last_modified": 1756792296.0596611
+        },
+        "testemail77.msg": {
+            "hash": "4d4c24f27eac4848bcb00efedf9c2e1ec709a2ec7fac5784dbd7fc33d57cccc3",
+            "last_modified": 1756792605.1562114
+        },
+        "testemail78msg.txt": {
+            "hash": "4d4c24f27eac4848bcb00efedf9c2e1ec709a2ec7fac5784dbd7fc33d57cccc3",
+            "last_modified": 1756792661.0990057
+        },
+        "testemail79.msg": {
+            "hash": "4d4c24f27eac4848bcb00efedf9c2e1ec709a2ec7fac5784dbd7fc33d57cccc3",
+            "last_modified": 1756795620.5482676
+        },
+        "testemail80.msg": {
+            "hash": "1e153ded15c77110ba76e508427f5d44eb1c40859a67d2cbbdd77acdc927d911",
+            "last_modified": 1756796311.007452
+        },
+        "testemail81.msg": {
+            "hash": "0a60c14ebf2ee5bcfd273579f77900814cadb9da82069b219323ea9c3079b1f9",
+            "last_modified": 1756796361.8111708
+        },
+        "testemail82.msg": {
+            "hash": "4fb6bef9be53c731fe92b40145125d5c8713d3e935a81580065b3fbd3fa0cd54",
+            "last_modified": 1756796404.2306583
+        },
+        "testemail83.msg": {
+            "hash": "4fb6bef9be53c731fe92b40145125d5c8713d3e935a81580065b3fbd3fa0cd54",
+            "last_modified": 1756796498.1475818
+        },
+        "testemail84.msg": {
+            "hash": "2dc3b178faa1d68524b0350d2dd670a4a0c4b6b89d98269316d21f46d47525ed",
+            "last_modified": 1756796978.187884
+        },
+        "testemail85.msg": {
+            "hash": "2dc3b178faa1d68524b0350d2dd670a4a0c4b6b89d98269316d21f46d47525ed",
+            "last_modified": 1756797027.6790295
+        },
+        "testemail86.msg": {
+            "hash": "7ff2600ecfe8c90f46b928f39c64ddced7552d7928f920c090b1fd287a170c8a",
+            "last_modified": 1756797237.6007276
+        },
+        "testemail87.msg": {
+            "hash": "7ff2600ecfe8c90f46b928f39c64ddced7552d7928f920c090b1fd287a170c8a",
+            "last_modified": 1756797274.4893727
+        },
+        "testemail88.msg": {
+            "hash": "2aa39273960839e4854ef41012745f7f10a61082aa9fcb738d4fc6a98584f90f",
+            "last_modified": 1756797307.5165055
+        },
+        "testemail89.msg": {
+            "hash": "2dc3b178faa1d68524b0350d2dd670a4a0c4b6b89d98269316d21f46d47525ed",
+            "last_modified": 1756797895.3638403
+        },
+        "testemail90.msg": {
+            "hash": "4fb6bef9be53c731fe92b40145125d5c8713d3e935a81580065b3fbd3fa0cd54",
+            "last_modified": 1756798391.827701
+        },
+        "testemail92.msg": {
+            "hash": "2aa39273960839e4854ef41012745f7f10a61082aa9fcb738d4fc6a98584f90f",
+            "last_modified": 1756798494.7845845
+        },
+        "testemail93.msg": {
+            "hash": "2aa39273960839e4854ef41012745f7f10a61082aa9fcb738d4fc6a98584f90f",
+            "last_modified": 1756798640.5525677
+        },
+        "testemail94.msg": {
+            "hash": "2aa39273960839e4854ef41012745f7f10a61082aa9fcb738d4fc6a98584f90f",
+            "last_modified": 1756798854.6625445
+        },
+        "testemail95.msg": {
+            "hash": "2aa39273960839e4854ef41012745f7f10a61082aa9fcb738d4fc6a98584f90f",
+            "last_modified": 1756799437.769723
+        }
+    }
+}

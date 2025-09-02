@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain_community
+langchain_core
+langchain_groq
+langchain_openai
+faiss-cpu
+streamlit
+tavily-python
+extract_msg
+rapidfuzz
+openpyxl
+paramiko

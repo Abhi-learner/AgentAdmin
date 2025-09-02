@@ -1,0 +1,1048 @@
+2025-08-27 04:25:20 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:27:32 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:29:16 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:30:39 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:30:46 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:32:08 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:33:51 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:35:03 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:35:40 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:36:48 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:36:53 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:37:50 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:37:56 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:41:07 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:41:16 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:42:24 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:42:34 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 04:42:34 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:43:14 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 04:43:22 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 04:43:22 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 04:43:54 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\firsttst.pdf
+2025-08-27 04:43:54 | src.dataingestion.fileprocessor | INFO | Change detected in: firsttst.pdf
+2025-08-27 04:44:05 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 18:22:20 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:22:20 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:27:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:27:28 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:27:28 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:29:14 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:29:14 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:29:14 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:31:15 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:31:15 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:31:15 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:32:17 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:32:17 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:32:17 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:36:51 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:36:51 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:36:51 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:40:51 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:40:51 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:40:51 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:41:35 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:41:35 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:41:35 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:43:39 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:43:39 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:43:39 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:48:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:48:28 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:48:28 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:54:25 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:54:26 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:54:26 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:57:21 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:57:21 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:57:21 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 18:59:59 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 18:59:59 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 18:59:59 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 19:02:06 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 19:02:06 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 19:02:06 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 19:03:05 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 19:03:05 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail.msg
+2025-08-27 19:03:05 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 19:03:12 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 19:03:52 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 20:08:04 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 20:08:04 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 20:09:05 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail2.msg
+2025-08-27 20:09:52 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 20:10:05 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 20:10:05 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail2.msg
+2025-08-27 20:10:05 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 20:10:10 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 20:11:37 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail2.msg
+2025-08-27 20:11:37 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail2.msg
+2025-08-27 20:22:06 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail3.msg
+2025-08-27 20:26:14 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 20:26:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 20:26:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail3.msg
+2025-08-27 20:26:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 20:26:33 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail4.msg
+2025-08-27 20:26:33 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 20:26:36 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 20:29:55 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail4.msg
+2025-08-27 20:29:56 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail4.msg
+2025-08-27 22:58:20 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\From monitoring@company.com.msg
+2025-08-27 23:00:15 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 23:01:11 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 23:01:11 | src.dataingestion.fileprocessor | INFO | Change detected in: From monitoring@company.com.msg
+2025-08-27 23:01:11 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:01:16 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 23:02:07 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail5.msg
+2025-08-27 23:03:42 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 23:04:44 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 23:04:44 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail5.msg
+2025-08-27 23:04:44 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:04:48 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 23:05:07 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail6.msg
+2025-08-27 23:09:01 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 23:09:44 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 23:09:44 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail6.msg
+2025-08-27 23:09:44 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:09:49 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 23:10:50 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail7.msg
+2025-08-27 23:14:16 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 23:15:15 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 23:15:15 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail7.msg
+2025-08-27 23:15:15 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:15:19 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 23:15:34 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail8.msg
+2025-08-27 23:21:28 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-27 23:22:13 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-27 23:22:13 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail8.msg
+2025-08-27 23:22:13 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:22:17 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-27 23:22:26 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail9.msg
+2025-08-27 23:22:28 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail9.msg
+2025-08-27 23:22:28 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:22:31 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail9.msg
+2025-08-27 23:22:33 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail9.msg
+2025-08-27 23:26:30 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail9.msg
+2025-08-27 23:26:31 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail9.msg
+2025-08-27 23:29:14 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail10.msg
+2025-08-27 23:29:16 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail10.msg
+2025-08-27 23:29:16 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-27 23:29:21 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail10.msg
+2025-08-27 23:29:23 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail10.msg
+2025-08-27 23:29:47 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:00:32 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:00:33 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:01:55 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail11.msg
+2025-08-28 01:01:57 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:01:57 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:02:34 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:03:03 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:03:03 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:03:03 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:03:59 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:04:00 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:04:00 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:07:05 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:07:05 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:07:05 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:08:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:08:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:08:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:09:52 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:09:52 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:09:52 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:11:56 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:11:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:11:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:14:50 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:14:50 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:14:50 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:18:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:18:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:18:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:19:19 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:19:20 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail11.msg
+2025-08-28 01:19:20 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:19:27 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:20:08 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:25:26 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:25:26 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:25:42 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail12.msg
+2025-08-28 01:25:44 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail12.msg
+2025-08-28 01:25:44 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:25:52 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail12.msg
+2025-08-28 01:25:54 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail12.msg
+2025-08-28 01:28:02 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:29:14 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:29:14 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:29:52 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail13.msg
+2025-08-28 01:29:54 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail13.msg
+2025-08-28 01:29:54 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:30:32 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:31:36 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:31:36 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail13.msg
+2025-08-28 01:31:36 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:31:42 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:33:19 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail13.msg
+2025-08-28 01:33:20 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail13.msg
+2025-08-28 01:33:43 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:34:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:34:29 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:34:50 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail14.msg
+2025-08-28 01:34:52 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail14.msg
+2025-08-28 01:34:52 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:34:59 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail14.msg
+2025-08-28 01:35:01 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail14.msg
+2025-08-28 01:37:52 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:42:52 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:42:53 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:43:09 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail15.msg
+2025-08-28 01:43:11 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail15.msg
+2025-08-28 01:43:11 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:43:18 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail15.msg
+2025-08-28 01:43:20 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail15.msg
+2025-08-28 01:43:57 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:49:37 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:49:37 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:49:46 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail16.msg
+2025-08-28 01:49:48 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail16.msg
+2025-08-28 01:49:48 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:52:47 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 01:56:32 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:56:32 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail16.msg
+2025-08-28 01:56:32 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:57:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 01:57:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail16.msg
+2025-08-28 01:57:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:57:40 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 01:57:50 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail17.msg
+2025-08-28 01:57:52 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail17.msg
+2025-08-28 01:57:52 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 01:57:56 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail17.msg
+2025-08-28 01:57:58 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail17.msg
+2025-08-28 02:01:52 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 02:11:13 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 02:11:14 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 02:11:27 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail18.msg
+2025-08-28 02:11:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail18.msg
+2025-08-28 02:11:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 02:11:40 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail18.msg
+2025-08-28 02:11:42 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail18.msg
+2025-08-28 02:13:06 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail19.msg
+2025-08-28 02:13:08 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail19.msg
+2025-08-28 02:13:08 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 02:13:11 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail19.msg
+2025-08-28 02:13:13 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail19.msg
+2025-08-28 02:14:45 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail20.msg
+2025-08-28 02:14:47 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail20.msg
+2025-08-28 02:14:47 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 02:14:50 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail20.msg
+2025-08-28 02:14:52 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail20.msg
+2025-08-28 02:15:40 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail19.msg
+2025-08-28 02:15:40 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail18.msg
+2025-08-28 02:15:41 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail19.msg
+2025-08-28 02:15:41 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail18.msg
+2025-08-28 02:16:18 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 22:39:44 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 22:39:45 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 22:40:05 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail22.msg
+2025-08-28 22:40:07 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail22.msg
+2025-08-28 22:40:07 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 22:40:25 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 22:40:56 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 22:40:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail22.msg
+2025-08-28 22:40:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 22:41:41 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 22:41:41 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail22.msg
+2025-08-28 22:41:41 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 22:46:02 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 22:46:02 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail22.msg
+2025-08-28 22:46:02 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 22:48:23 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 22:48:23 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail22.msg
+2025-08-28 22:48:23 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 22:51:58 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 22:51:58 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail22.msg
+2025-08-28 22:51:58 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 22:52:08 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 22:52:32 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 23:00:23 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 23:00:24 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 23:00:39 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail23.msg
+2025-08-28 23:00:41 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail23.msg
+2025-08-28 23:00:41 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:03:02 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 23:03:43 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 23:03:43 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail23.msg
+2025-08-28 23:03:43 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:04:34 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 23:04:34 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail23.msg
+2025-08-28 23:04:34 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:05:37 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 23:05:37 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail23.msg
+2025-08-28 23:05:37 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:05:45 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'High Memory Utilization', 'confidence': 90}], 'events': [{'value': 'Memory utilization exceeded 90%', 'confidence': 85}], 'links': []}
+2025-08-28 23:05:45 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 23:25:53 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 23:26:19 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 23:26:20 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 23:26:43 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail24.msg
+2025-08-28 23:26:45 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail24.msg
+2025-08-28 23:26:45 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:26:54 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [{'value': 'Please investigate the issue and take corrective action', 'confidence': 90}], 'alerts': [{'value': 'High CPU utilization', 'confidence': 90}], 'events': [{'value': 'CPU utilization exceeded threshold', 'confidence': 85}], 'links': []}
+2025-08-28 23:26:54 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail24.msg
+2025-08-28 23:26:56 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail24.msg
+2025-08-28 23:28:22 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail24.msg
+2025-08-28 23:28:23 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail24.msg
+2025-08-28 23:49:42 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-28 23:50:55 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-28 23:50:55 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-28 23:51:07 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:51:09 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail25.msg
+2025-08-28 23:51:09 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:51:22 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [{'value': 'Password reset for Production account', 'confidence': 90}], 'alerts': [], 'events': [{'value': 'Password expired', 'confidence': 85}], 'links': []}
+2025-08-28 23:51:22 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:51:24 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:52:06 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:52:07 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:52:29 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:52:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail25.msg
+2025-08-28 23:52:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:52:31 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [{'value': 'Password reset for user jdoe-prod on linux1', 'confidence': 90}], 'alerts': [], 'events': [], 'links': []}
+2025-08-28 23:52:32 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail25.msg
+2025-08-28 23:56:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail26.msg
+2025-08-28 23:56:50 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail26.msg
+2025-08-28 23:56:50 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-28 23:56:52 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [{'value': 'Restore database backup for Production system', 'confidence': 90}], 'alerts': [{'value': 'Failed batch job run', 'confidence': 90}], 'events': [{'value': 'Data corruption due to failed job', 'confidence': 85}], 'links': []}
+2025-08-28 23:56:53 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail26.msg
+2025-08-28 23:56:55 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail26.msg
+2025-08-28 23:57:40 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail26.msg
+2025-08-28 23:57:41 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail26.msg
+2025-08-29 00:23:15 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 00:23:47 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 00:23:47 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 00:25:17 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail27.msg
+2025-08-29 00:25:19 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail27.msg
+2025-08-29 00:25:19 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 00:25:28 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC12345', 'confidence': 95}], 'requests': [{'value': 'Restore Database Backup on PROD-DB-01', 'confidence': 90}], 'alerts': [{'value': 'Critical request', 'confidence': 85}], 'events': [], 'links': []}
+2025-08-29 00:25:58 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 00:27:08 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 00:27:08 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail27.msg
+2025-08-29 00:27:08 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 00:27:16 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC12345', 'confidence': 95}], 'requests': [{'value': 'Restore Database Backup on PROD-DB-01', 'confidence': 90}], 'alerts': [{'value': 'Critical request', 'confidence': 85}], 'events': [{'value': 'Database corruption', 'confidence': 80}], 'links': []}
+2025-08-29 00:27:52 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 00:27:52 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail27.msg
+2025-08-29 00:27:52 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 00:28:00 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC12345', 'confidence': 95}], 'requests': [{'value': 'Restore Database Backup on PROD-DB-01', 'confidence': 90}], 'alerts': [{'value': 'Critical request', 'confidence': 85}], 'events': [{'value': 'Database corruption', 'confidence': 80}], 'links': []}
+2025-08-29 00:28:03 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 00:32:28 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail28.msg
+2025-08-29 00:32:30 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail28.msg
+2025-08-29 00:32:30 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 00:32:32 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [{'value': 'restart the affected web service', 'confidence': 80}], 'alerts': [{'value': 'High CPU Utilization', 'confidence': 90}], 'events': [{'value': 'CPU utilization exceeded threshold', 'confidence': 85}], 'links': []}
+2025-08-29 00:32:37 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail28.msg
+2025-08-29 00:32:39 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail28.msg
+2025-08-29 00:33:23 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail28.msg
+2025-08-29 00:33:23 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail28.msg
+2025-08-29 00:33:46 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail29.msg
+2025-08-29 00:33:48 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail29.msg
+2025-08-29 00:33:48 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 00:33:54 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [{'value': 'restart the affected web service', 'confidence': 85}], 'alerts': [{'value': 'High CPU Utilization', 'confidence': 90}], 'events': [{'value': 'CPU utilization exceeded threshold', 'confidence': 85}], 'links': []}
+2025-08-29 00:33:57 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail29.msg
+2025-08-29 00:33:59 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail29.msg
+2025-08-29 00:34:41 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail29.msg
+2025-08-29 00:34:42 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail29.msg
+2025-08-29 01:04:53 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 02:29:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 02:29:29 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 02:29:52 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail30.msg
+2025-08-29 02:29:54 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail30.msg
+2025-08-29 02:29:54 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 02:30:05 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC789654', 'confidence': 95}], 'requests': [{'value': 'Restart the affected database service', 'confidence': 90}], 'alerts': [{'value': 'CPU Utilization Alert', 'confidence': 90}], 'events': [{'value': 'CPU utilization sustained at 96%', 'confidence': 85}], 'links': []}
+2025-08-29 02:30:12 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail30.msg
+2025-08-29 02:30:14 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail30.msg
+2025-08-29 02:31:18 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail30.msg
+2025-08-29 02:31:19 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail30.msg
+2025-08-29 02:32:24 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testmail31.msg
+2025-08-29 02:32:26 | src.dataingestion.fileprocessor | INFO | Change detected in: testmail31.msg
+2025-08-29 02:32:26 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 02:32:30 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [{'value': 'Extend /home filesystem by 20GB', 'confidence': 90}], 'alerts': [{'value': 'Disk full', 'confidence': 90}], 'events': [{'value': 'Disk full error', 'confidence': 85}], 'links': []}
+2025-08-29 02:32:35 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testmail31.msg
+2025-08-29 02:32:37 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testmail31.msg
+2025-08-29 02:33:18 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testmail31.msg
+2025-08-29 02:33:19 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testmail31.msg
+2025-08-29 02:39:23 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail33.msg
+2025-08-29 02:39:25 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail33.msg
+2025-08-29 02:39:25 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 02:39:29 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [{'value': 'INC654321', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'Disk Utilization High', 'confidence': 90}], 'events': [{'value': 'Disk utilization exceeded 95%', 'confidence': 85}], 'links': [{'server': 'linux1', 'ticket': 'INC654321'}]}
+2025-08-29 02:39:34 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail33.msg
+2025-08-29 02:39:36 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail33.msg
+2025-08-29 02:40:19 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail33.msg
+2025-08-29 02:40:20 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail33.msg
+2025-08-29 02:42:12 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail34.msg
+2025-08-29 02:42:14 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail34.msg
+2025-08-29 02:42:14 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 02:42:16 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC654321', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'Disk Utilization High', 'confidence': 90}], 'events': [{'value': 'Disk utilization exceeded 95%', 'confidence': 85}], 'links': [{'server': 'linux2', 'ticket': 'INC654321'}]}
+2025-08-29 02:42:22 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail34.msg
+2025-08-29 02:42:24 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail34.msg
+2025-08-29 02:43:05 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail34.msg
+2025-08-29 02:43:05 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail34.msg
+2025-08-29 03:02:15 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 03:04:04 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 03:04:05 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 03:04:12 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail35.msg
+2025-08-29 03:04:14 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail35.msg
+2025-08-29 03:04:14 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 03:04:25 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC445566', 'confidence': 95}], 'requests': [{'value': 'Extend /home filesystem by 30GB', 'confidence': 90}], 'alerts': [{'value': 'Disk full', 'confidence': 90}], 'events': [{'value': 'Disk space low', 'confidence': 85}], 'links': [{'server': 'linux2', 'ticket': 'INC445566'}]}
+2025-08-29 03:04:31 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail35.msg
+2025-08-29 03:04:33 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail35.msg
+2025-08-29 03:05:34 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail35.msg
+2025-08-29 03:05:34 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail35.msg
+2025-08-29 03:06:38 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 03:10:13 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 03:10:13 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 03:11:11 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail36.msg
+2025-08-29 03:11:13 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail36.msg
+2025-08-29 03:11:13 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 03:11:26 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [{'value': 'Filesystem Extension', 'confidence': 90}], 'alerts': [{'value': 'Disk Utilization Exceeded', 'confidence': 90}], 'events': [{'value': 'Disk utilization exceeded 94%', 'confidence': 85}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 03:11:33 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail36.msg
+2025-08-29 03:11:35 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail36.msg
+2025-08-29 03:12:57 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail36.msg
+2025-08-29 03:12:58 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail36.msg
+2025-08-29 03:15:03 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 23:15:44 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:15:45 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 23:16:04 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 23:16:43 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:16:43 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-29 23:17:03 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail37.msg
+2025-08-29 23:17:05 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:17:05 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:17:15 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:17:23 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-29 23:20:08 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:20:09 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:20:09 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:20:19 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:25:03 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:25:03 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:25:03 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:25:03 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:25:03 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:25:03 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:25:14 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:25:14 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 85}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:26:45 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:26:45 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:26:45 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:26:55 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:46:05 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:46:05 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:46:05 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:46:18 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:48:59 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:48:59 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:48:59 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:49:11 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-29 23:52:02 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-29 23:52:03 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-29 23:52:03 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-29 23:52:12 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-30 00:01:52 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 00:01:52 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-30 00:01:52 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 00:02:01 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-30 00:04:38 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 00:04:39 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail37.msg
+2025-08-30 00:04:39 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 00:04:49 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'High disk usage', 'confidence': 90}, {'value': 'Critical Alert', 'confidence': 85}], 'events': [{'value': 'Disk utilization exceeded threshold', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-30 00:04:52 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 00:33:01 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 00:34:10 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 00:34:11 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 00:34:34 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail38.msg
+2025-08-30 00:34:36 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail38.msg
+2025-08-30 00:34:36 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 00:34:46 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-08-30 00:34:49 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail38.msg
+2025-08-30 00:34:51 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail38.msg
+2025-08-30 00:35:59 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail38.msg
+2025-08-30 00:36:00 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail38.msg
+2025-08-30 00:36:47 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 00:37:51 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 00:37:51 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail39.msg
+2025-08-30 00:37:51 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 00:38:03 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [{'value': 'Immediate cleanup is recommended', 'confidence': 90}], 'alerts': [{'value': 'Disk Space Alert', 'confidence': 90}, {'value': '92% utilization', 'confidence': 85}], 'events': [{'value': 'Disk space utilization high', 'confidence': 90}], 'links': []}
+2025-08-30 00:38:09 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 00:38:41 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail39.msg
+2025-08-30 00:38:41 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail39.msg
+2025-08-30 00:39:01 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 01:23:52 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 01:23:53 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail40.msg
+2025-08-30 01:23:53 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 01:24:02 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'High Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization at 91%', 'confidence': 85}], 'links': []}
+2025-08-30 01:24:06 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 01:24:43 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail40.msg
+2025-08-30 01:24:43 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail40.msg
+2025-08-30 01:30:29 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 01:51:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 01:51:29 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 01:51:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail41.msg
+2025-08-30 01:51:50 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail41.msg
+2025-08-30 01:51:50 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 01:52:00 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'Disk Utilization Critical', 'confidence': 90}], 'events': [{'value': 'Disk space utilization exceeded threshold', 'confidence': 85}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-08-30 01:52:04 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail41.msg
+2025-08-30 01:52:06 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail41.msg
+2025-08-30 01:53:06 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 01:56:50 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 01:56:50 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail42.msg
+2025-08-30 01:56:50 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 01:56:59 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC123456', 'confidence': 95}], 'requests': [{'value': 'Extend filesystem by 100GB', 'confidence': 90}], 'alerts': [], 'events': [{'value': 'Running out of space on /data filesystem', 'confidence': 85}], 'links': [{'server': 'linux2', 'ticket': 'INC123456'}]}
+2025-08-30 01:57:02 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 01:57:46 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 02:05:22 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 02:05:23 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail43.msg
+2025-08-30 02:05:23 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 02:05:32 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC776655', 'confidence': 95}], 'requests': [], 'alerts': [], 'events': [], 'links': [{'server': 'linux2', 'ticket': 'INC776655'}]}
+2025-08-30 02:05:35 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 02:06:13 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail43.msg
+2025-08-30 02:06:13 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail43.msg
+2025-08-30 02:07:18 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail44.msg
+2025-08-30 02:07:20 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail44.msg
+2025-08-30 02:07:20 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 02:07:25 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC445566', 'confidence': 90}], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-08-30 02:07:27 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail44.msg
+2025-08-30 02:07:29 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail44.msg
+2025-08-30 02:08:19 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail44.msg
+2025-08-30 02:08:19 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail44.msg
+2025-08-30 02:08:24 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail45.msg
+2025-08-30 02:08:26 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail45.msg
+2025-08-30 02:08:26 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 02:08:30 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC112233', 'confidence': 90}], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-08-30 02:08:33 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail45.msg
+2025-08-30 02:08:35 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail45.msg
+2025-08-30 02:09:21 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail45.msg
+2025-08-30 02:09:22 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail45.msg
+2025-08-30 02:09:39 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 02:22:23 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 02:22:23 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 02:22:29 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail46.msg
+2025-08-30 02:22:31 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail46.msg
+2025-08-30 02:22:32 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 02:22:42 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [{'value': 'INC100200', 'confidence': 95}], 'requests': [], 'alerts': [{'value': 'Disk Utilization', 'confidence': 90}, {'value': 'Critical', 'confidence': 85}], 'events': [{'value': 'Disk utilization reached 95%', 'confidence': 90}], 'links': [{'server': 'linux1', 'ticket': 'INC100200'}]}
+2025-08-30 02:22:45 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail46.msg
+2025-08-30 02:22:47 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail46.msg
+2025-08-30 02:23:28 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail46.msg
+2025-08-30 02:23:29 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail46.msg
+2025-08-30 02:23:51 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail47.msg
+2025-08-30 02:23:53 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail47.msg
+2025-08-30 02:23:53 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 02:23:56 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC200300', 'confidence': 95}], 'requests': [{'value': 'Extend /data filesystem by 150GB', 'confidence': 90}], 'alerts': [], 'events': [{'value': 'Low disk space on /data filesystem', 'confidence': 85}], 'links': []}
+2025-08-30 02:24:00 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail47.msg
+2025-08-30 02:24:02 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail47.msg
+2025-08-30 02:24:50 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail47.msg
+2025-08-30 02:24:50 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail47.msg
+2025-08-30 02:25:08 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-08-30 02:28:58 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-08-30 02:28:58 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail48.msg
+2025-08-30 02:28:58 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-08-30 02:29:06 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC400500', 'confidence': 95}], 'requests': [{'value': 'Request for permanent extension of /tmp by 50GB', 'confidence': 90}], 'alerts': [{'value': 'Filesystem utilization at 89%', 'confidence': 85}], 'events': [{'value': 'Disk space utilization high', 'confidence': 80}], 'links': []}
+2025-08-30 02:29:09 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-08-30 02:29:49 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail48.msg
+2025-08-30 02:29:49 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail48.msg
+2025-08-30 12:07:10 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail48.msg
+2025-08-30 12:07:11 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail48.msg
+2025-09-01 12:11:31 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 12:20:51 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 12:20:52 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 12:21:12 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail49.msg
+2025-09-01 12:21:14 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail49.msg
+2025-09-01 12:21:14 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:21:31 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC998877', 'confidence': 95}], 'requests': [{'value': 'extend the filesystem by 20GB', 'confidence': 90}], 'alerts': [{'value': 'Disk Space Alert', 'confidence': 90}, {'value': 'disk space utilization at 94%', 'confidence': 85}], 'events': [{'value': 'disk space high', 'confidence': 90}], 'links': [{'server': 'linux2', 'ticket': 'INC998877'}]}
+2025-09-01 12:21:34 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail49.msg
+2025-09-01 12:21:36 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail49.msg
+2025-09-01 12:24:15 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail50.msg
+2025-09-01 12:24:17 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail50.msg
+2025-09-01 12:24:17 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:24:19 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:24:23 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail50.msg
+2025-09-01 12:24:25 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail50.msg
+2025-09-01 12:25:58 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail51.msg
+2025-09-01 12:26:00 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail51.msg
+2025-09-01 12:26:00 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:26:04 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [{'value': 'Increase /data filesystem by 50GB', 'confidence': 90}], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:26:09 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail51.msg
+2025-09-01 12:26:11 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail51.msg
+2025-09-01 12:28:38 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail52.msg
+2025-09-01 12:28:40 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail52.msg
+2025-09-01 12:28:40 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:28:43 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:28:46 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail52.msg
+2025-09-01 12:28:48 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail52.msg
+2025-09-01 12:33:21 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 12:35:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 12:35:31 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 12:35:35 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail53.msg
+2025-09-01 12:35:37 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail53.msg
+2025-09-01 12:35:37 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:35:47 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:35:50 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail53.msg
+2025-09-01 12:35:52 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail53.msg
+2025-09-01 12:36:51 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail54.msg
+2025-09-01 12:36:53 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail54.msg
+2025-09-01 12:36:53 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:36:57 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:37:02 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail54.msg
+2025-09-01 12:37:04 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail54.msg
+2025-09-01 12:39:01 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 12:41:57 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 12:41:57 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 12:42:07 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail56.msg
+2025-09-01 12:42:09 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail56.msg
+2025-09-01 12:42:09 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:42:21 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'High Memory Utilization', 'confidence': 90}], 'events': [{'value': 'Memory usage crossed 88%', 'confidence': 85}], 'links': []}
+2025-09-01 12:42:54 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 12:44:30 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 12:44:30 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail56.msg
+2025-09-01 12:44:30 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:44:41 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'High Memory Utilization', 'confidence': 90}], 'events': [{'value': 'Memory usage crossed 88%', 'confidence': 85}], 'links': []}
+2025-09-01 12:44:44 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 12:46:46 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail57.msg
+2025-09-01 12:46:48 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail57.msg
+2025-09-01 12:46:48 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:46:51 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [{'value': 'INC778899', 'confidence': 95}], 'requests': [{'value': 'Extend filesystem by 50GB', 'confidence': 90}], 'alerts': [], 'events': [{'value': 'Filesystem at 80%', 'confidence': 85}], 'links': []}
+2025-09-01 12:46:56 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail57.msg
+2025-09-01 12:46:58 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail57.msg
+2025-09-01 12:49:23 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail58.msg
+2025-09-01 12:49:25 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail58.msg
+2025-09-01 12:49:25 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:49:29 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [{'value': 'INC445566', 'confidence': 95}], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:49:32 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail58.msg
+2025-09-01 12:49:34 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail58.msg
+2025-09-01 12:50:54 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail59.msg
+2025-09-01 12:50:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail59.msg
+2025-09-01 12:50:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:50:59 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:51:05 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail59.msg
+2025-09-01 12:51:07 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail59.msg
+2025-09-01 12:52:40 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail60.msg
+2025-09-01 12:52:42 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail60.msg
+2025-09-01 12:52:42 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 12:52:45 | src.nodes.emailnodes | INFO | Entities: {'servers': [], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 12:52:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail60.msg
+2025-09-01 12:52:50 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail60.msg
+2025-09-01 13:10:58 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 13:27:19 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 13:27:20 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 13:27:35 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail61.msg
+2025-09-01 13:27:37 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail61.msg
+2025-09-01 13:27:37 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 13:27:48 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 13:28:25 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 13:29:50 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 13:29:51 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail61.msg
+2025-09-01 13:29:51 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 13:29:58 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Alert - Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 13:30:01 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 13:30:01 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 13:40:12 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 18:40:11 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 18:40:12 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 18:40:28 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail62.msg
+2025-09-01 18:40:30 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail62.msg
+2025-09-01 18:40:30 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 18:40:44 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 18:40:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail62.msg
+2025-09-01 18:40:50 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail62.msg
+2025-09-01 18:42:14 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail62.msg
+2025-09-01 18:42:15 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail62.msg
+2025-09-01 18:45:11 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 18:47:02 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 18:47:02 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail63.msg
+2025-09-01 18:47:02 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 18:47:11 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 18:47:14 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 18:47:14 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 18:47:14 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 18:47:31 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail63.msg
+2025-09-01 18:47:31 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail63.msg
+2025-09-01 20:11:51 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 23:19:09 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:19:11 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 23:20:12 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail64.msg
+2025-09-01 23:20:14 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail64.msg
+2025-09-01 23:20:14 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:20:26 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [{'value': 'investigate and take appropriate action', 'confidence': 85}], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 90}], 'links': []}
+2025-09-01 23:20:30 | src.nodes.emailnodes | INFO |  Handling filesystem extension request:
+2025-09-01 23:20:30 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail64.msg
+2025-09-01 23:20:32 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail64.msg
+2025-09-01 23:21:21 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail64.msg
+2025-09-01 23:21:22 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail64.msg
+2025-09-01 23:22:01 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 23:24:18 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:24:18 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 23:24:22 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail65.msg
+2025-09-01 23:24:24 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:24:24 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:24:33 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:24:36 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:24:36 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:30:59 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-01 23:31:21 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:31:21 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:31:21 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:31:32 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:31:35 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:31:35 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:32:57 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:32:57 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:32:57 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:33:05 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:33:08 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:33:08 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:34:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:34:28 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:34:28 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:34:37 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:34:39 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:34:40 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:41:21 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:41:23 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:41:23 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:41:33 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:41:36 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:41:37 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:44:10 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:44:10 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:44:10 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:44:21 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:44:25 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:44:25 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:51:01 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:51:02 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:51:02 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:51:13 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:51:17 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:51:17 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:54:48 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-01 23:54:48 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail65.msg
+2025-09-01 23:54:48 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:54:59 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-01 23:55:03 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-01 23:55:03 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-01 23:55:18 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-01 23:56:36 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail66.msg
+2025-09-01 23:56:38 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail66.msg
+2025-09-01 23:56:38 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-01 23:56:40 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-01 23:56:45 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail66.msg
+2025-09-01 23:56:47 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail66.msg
+2025-09-01 23:57:25 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 00:00:29 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 00:00:29 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 00:00:36 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail67.msg
+2025-09-02 00:00:38 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail67.msg
+2025-09-02 00:00:38 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 00:00:52 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 00:00:57 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 00:00:57 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 00:01:14 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail67.msg
+2025-09-02 00:01:16 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail67.msg
+2025-09-02 00:02:14 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail67.msg
+2025-09-02 00:02:14 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail67.msg
+2025-09-02 00:15:54 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail68.msg
+2025-09-02 00:15:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail68.msg
+2025-09-02 00:15:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 00:15:59 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 00:16:04 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 00:16:04 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 00:16:19 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail68.msg
+2025-09-02 00:16:21 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail68.msg
+2025-09-02 00:17:10 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail68.msg
+2025-09-02 00:17:10 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail68.msg
+2025-09-02 00:21:30 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 00:22:18 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 00:22:20 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 00:22:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail69.msg
+2025-09-02 00:22:50 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail69.msg
+2025-09-02 00:22:50 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 00:23:02 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 00:23:06 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 00:23:06 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 00:23:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail69.msg
+2025-09-02 00:23:50 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail69.msg
+2025-09-02 00:24:45 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail69.msg
+2025-09-02 00:24:45 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail69.msg
+2025-09-02 00:27:34 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 00:28:46 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 00:28:46 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 00:29:06 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail70.msg
+2025-09-02 00:29:08 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail70.msg
+2025-09-02 00:29:08 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 00:29:17 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 00:29:19 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 00:29:20 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 00:29:35 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail70.msg
+2025-09-02 00:29:37 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail70.msg
+2025-09-02 00:31:22 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail70.msg
+2025-09-02 00:31:22 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail70.msg
+2025-09-02 00:33:24 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 00:33:54 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 00:33:55 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 00:34:09 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail71.msg
+2025-09-02 00:34:11 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail71.msg
+2025-09-02 00:34:11 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 00:34:26 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 00:34:31 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 00:34:31 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 00:34:51 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail71.msg
+2025-09-02 00:34:53 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail71.msg
+2025-09-02 00:35:43 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 00:38:00 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 00:38:02 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 00:38:03 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail72.msg
+2025-09-02 00:38:05 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail72.msg
+2025-09-02 00:38:05 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 00:38:18 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Memory Utilization - Critical', 'confidence': 90}], 'events': [{'value': 'Memory usage exceeded 90%', 'confidence': 85}], 'links': []}
+2025-09-02 00:42:17 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 09:49:53 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 09:49:54 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail72.msg
+2025-09-02 09:49:54 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 09:50:03 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Memory Utilization - Critical', 'confidence': 90}], 'events': [{'value': 'Memory usage exceeded 90%', 'confidence': 85}], 'links': []}
+2025-09-02 09:50:05 | src.nodes.emailnodes | INFO |  Handling Memory Alert:
+2025-09-02 09:50:05 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 09:50:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail73.msg
+2025-09-02 09:50:50 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail73.msg
+2025-09-02 09:50:50 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 09:50:53 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 09:50:55 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 09:50:55 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 09:51:08 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail73.msg
+2025-09-02 09:51:10 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail73.msg
+2025-09-02 09:59:38 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 11:00:35 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:00:36 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 11:01:28 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail74.msg
+2025-09-02 11:01:30 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail74.msg
+2025-09-02 11:01:30 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:01:37 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:01:38 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:03:06 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 11:03:19 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:03:20 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail74.msg
+2025-09-02 11:03:20 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:03:25 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:03:26 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:03:56 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:03:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail74.msg
+2025-09-02 11:03:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:04:02 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:04:03 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:04:03 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 11:08:30 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:08:30 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail74.msg
+2025-09-02 11:08:30 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:08:35 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:08:37 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:08:37 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 11:09:43 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 11:10:03 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 11:11:58 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:11:58 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 11:12:27 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail75.msg
+2025-09-02 11:12:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail75.msg
+2025-09-02 11:12:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:12:34 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:12:36 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:12:36 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 11:14:59 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 11:15:14 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:15:14 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail75.msg
+2025-09-02 11:15:14 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:15:18 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:15:19 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:15:19 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 11:15:58 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:15:58 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail75.msg
+2025-09-02 11:15:58 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:16:02 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:16:03 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:16:03 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 11:16:31 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 11:21:35 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail76.msg
+2025-09-02 11:21:37 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail76.msg
+2025-09-02 11:21:37 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:21:40 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 11:21:41 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 11:21:41 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 11:22:53 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail76.msg
+2025-09-02 11:22:55 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail76.msg
+2025-09-02 11:26:16 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 11:26:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 11:26:29 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 11:26:45 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail77.msg
+2025-09-02 11:26:47 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail77.msg
+2025-09-02 11:26:47 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 11:26:52 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 11:26:53 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail77.msg
+2025-09-02 11:26:55 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail77.msg
+2025-09-02 11:27:40 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail78msg.txt
+2025-09-02 11:27:42 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail78msg.txt
+2025-09-02 11:27:42 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail78msg.txt
+2025-09-02 11:27:45 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail78msg.txt
+2025-09-02 12:16:04 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 12:16:23 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:16:24 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 12:17:00 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail79.msg
+2025-09-02 12:17:02 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail79.msg
+2025-09-02 12:17:02 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:17:08 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 12:17:10 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:17:10 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:19:34 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 12:19:58 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:19:59 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail79.msg
+2025-09-02 12:19:59 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:20:04 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 96%', 'confidence': 85}], 'links': []}
+2025-09-02 12:20:05 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:20:05 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:20:14 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 12:27:16 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 12:28:21 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:28:22 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 12:28:30 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail80.msg
+2025-09-02 12:28:32 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail80.msg
+2025-09-02 12:28:32 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:28:40 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 12:28:41 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail80.msg
+2025-09-02 12:28:43 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail80.msg
+2025-09-02 12:29:21 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail81.msg
+2025-09-02 12:29:23 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail81.msg
+2025-09-02 12:29:23 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:29:26 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 12:29:27 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail81.msg
+2025-09-02 12:29:29 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail81.msg
+2025-09-02 12:30:04 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail82.msg
+2025-09-02 12:30:06 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail82.msg
+2025-09-02 12:30:06 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:30:11 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 12:30:13 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail82.msg
+2025-09-02 12:30:15 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail82.msg
+2025-09-02 12:31:38 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail83.msg
+2025-09-02 12:31:40 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail83.msg
+2025-09-02 12:31:40 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:31:42 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 12:31:44 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:31:44 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:32:30 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail83.msg
+2025-09-02 12:32:32 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail83.msg
+2025-09-02 12:32:39 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 12:39:28 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:39:28 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 12:39:38 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail84.msg
+2025-09-02 12:39:40 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail84.msg
+2025-09-02 12:39:40 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:39:46 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 12:39:48 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail84.msg
+2025-09-02 12:39:50 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail84.msg
+2025-09-02 12:40:27 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail85.msg
+2025-09-02 12:40:29 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail85.msg
+2025-09-02 12:40:29 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:40:31 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 12:40:32 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:40:32 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:41:04 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail85.msg
+2025-09-02 12:41:06 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail85.msg
+2025-09-02 12:43:44 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 12:43:56 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:43:56 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 12:43:57 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail86.msg
+2025-09-02 12:43:59 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail86.msg
+2025-09-02 12:43:59 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:44:04 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 12:44:06 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail86.msg
+2025-09-02 12:44:08 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail86.msg
+2025-09-02 12:44:34 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail87.msg
+2025-09-02 12:44:36 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail87.msg
+2025-09-02 12:44:36 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:44:38 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'LINUX2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [], 'events': [], 'links': []}
+2025-09-02 12:44:40 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail87.msg
+2025-09-02 12:44:42 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail87.msg
+2025-09-02 12:45:07 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail88.msg
+2025-09-02 12:45:09 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail88.msg
+2025-09-02 12:45:09 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:45:11 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Alert - Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 12:45:13 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:45:13 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:45:15 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail88.msg
+2025-09-02 12:45:17 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail88.msg
+2025-09-02 12:54:14 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 12:54:56 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:54:58 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail89.msg
+2025-09-02 12:54:58 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:55:04 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 12:55:05 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:55:05 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:57:16 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 12:57:16 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail89.msg
+2025-09-02 12:57:16 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 12:57:21 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 12:57:22 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 12:57:22 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 12:57:53 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 13:02:11 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 13:02:35 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 13:02:35 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 13:03:11 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail90.msg
+2025-09-02 13:03:13 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail90.msg
+2025-09-02 13:03:13 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 13:03:19 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux1', 'confidence': 95, 'Env': 'Prod'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 13:03:20 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 13:03:21 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 13:03:50 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail90.msg
+2025-09-02 13:03:52 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail90.msg
+2025-09-02 13:04:07 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 13:04:22 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 13:04:23 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 13:04:54 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail92.msg
+2025-09-02 13:04:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail92.msg
+2025-09-02 13:04:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 13:05:04 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 13:05:05 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 13:05:05 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 13:05:06 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail92.msg
+2025-09-02 13:05:08 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail92.msg
+2025-09-02 13:06:45 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 13:07:17 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 13:07:17 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 13:07:20 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail93.msg
+2025-09-02 13:07:22 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail93.msg
+2025-09-02 13:07:22 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 13:07:27 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Alert - Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 13:07:28 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 13:07:28 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 13:07:30 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail93.msg
+2025-09-02 13:07:32 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail93.msg
+2025-09-02 13:10:18 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 13:10:42 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 13:10:42 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 13:10:54 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail94.msg
+2025-09-02 13:10:56 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail94.msg
+2025-09-02 13:10:56 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 13:11:02 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Alert - Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 13:11:04 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 13:11:04 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 13:11:05 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail94.msg
+2025-09-02 13:11:07 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail94.msg
+2025-09-02 13:18:33 | src.dataingestion.startfilewatcher | INFO | Stopped watching.
+2025-09-02 13:20:24 | src.dataingestion.initialscan | INFO | Running initial scan...
+2025-09-02 13:20:26 | src.dataingestion.startfilewatcher | INFO | Watching folder: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents
+2025-09-02 13:20:37 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail95.msg
+2025-09-02 13:20:39 | src.dataingestion.fileprocessor | INFO | Change detected in: testemail95.msg
+2025-09-02 13:20:39 | src.dataingestion.fileprocessor | INFO | Found Email
+2025-09-02 13:20:48 | src.nodes.emailnodes | INFO | Entities: {'servers': [{'value': 'linux2', 'confidence': 95, 'Env': 'Test'}], 'tickets': [], 'requests': [], 'alerts': [{'value': 'Critical Disk Utilization', 'confidence': 90}], 'events': [{'value': 'Disk utilization reached 94%', 'confidence': 85}], 'links': []}
+2025-09-02 13:20:49 | src.nodes.emailnodes | INFO |  Handling disk alert:
+2025-09-02 13:20:50 | src.nodes.diskalertnodes | INFO | Extracted disk alert info:
+2025-09-02 13:20:52 | src.dataingestion.watcher | INFO | New file detected: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail95.msg
+2025-09-02 13:20:54 | src.dataingestion.watcher | INFO | File modified: C:\Users\abhimaku\OneDrive - AMDOCS\Documents\Agentic AI Learning\AgentAdmin\Documents\testemail95.msg
+2025-09-02 13:24:16 | src.dataingestion.startfilewatcher | INFO | Stopped watching.

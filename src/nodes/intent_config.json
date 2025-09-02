@@ -1,0 +1,29 @@
+{
+  "disk_cleanup": {
+    "route": "disk_alert_subgraph",
+    "priority": 100,
+    "when": {
+      "classification_in": ["alert"],
+      "keywords_any": ["disk","filesystem","fs","space","utilization","capacity"],
+      "min_percent": 85
+    }
+  },
+  "fs_extension": {
+    "route": "fs_extension_subgraph",
+    "priority": 90,
+    "when": {
+      "classification_in": ["request","task","change"],
+      "keywords_any": [
+        "filesystem extension", "extend filesystem", "extend fs",
+        "increase disk", "extend volume", "increase volume", "expand"
+      ]
+    }
+  },
+  "ticket_update": {
+    "route": "ticket_update_subgraph",
+    "priority": 10,
+    "when": {
+      "requires_ticket": true
+    }
+  }
+}

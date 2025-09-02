@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="langchain" />
+          <option value="langgraph" />
+          <option value="langchain-core" />
+          <option value="langchain-community" />
+          <option value="python-dotenv" />
+          <option value="langchain-openai" />
+          <option value="langchain-groq" />
+          <option value="pydantic" />
+          <option value="arxiv" />
+          <option value="wikipedia" />
+          <option value="faiss-cpu" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

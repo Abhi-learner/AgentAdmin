@@ -1,0 +1,157 @@
+{
+  "Prod": {
+    "restart_service": {
+      "policy": "Restart Service Approval",
+      "requires_approval": true,
+      "approval_source": "admin",
+      "condition": {
+        "trigger": "service_crash",
+        "requires_approval": true
+      }
+    },
+    "file_deletion": {
+      "policy": "File Deletion Approval",
+      "requires_approval": true,
+      "approval_source": "admin",
+      "condition": {
+        "trigger": "disk_utilization_alert",
+        "requires_approval": true
+      }
+    },
+    "high_memory_utilization": {
+      "policy": "Memory Alert Policy",
+      "requires_approval": true,
+      "approval_source": "oncall_manager",
+      "condition": {
+        "trigger": "memory_utilization_alert",
+        "requires_approval": true
+      }
+    },
+    "cpu_utilization": {
+      "policy": "CPU Spike Policy",
+      "requires_approval": false,
+      "condition": {
+        "trigger": "cpu_utilization_alert",
+        "requires_approval": false
+      }
+    },
+    "disk_utilization": {
+      "policy": "Disk Cleanup Policy",
+      "requires_approval": true,
+      "approval_source": "storage_team",
+      "condition": {
+        "trigger": "disk_utilization_alert",
+        "requires_approval": true
+      }
+    },
+    "filesystem_extension": {
+      "policy": "Filesystem Extension Approval",
+      "requires_approval": true,
+      "approval_source": "storage_team",
+      "condition": {
+        "trigger": "filesystem_extension_request",
+        "requires_approval": true
+      }
+    },
+    "network_latency": {
+      "policy": "Network Latency Investigation",
+      "requires_approval": false,
+      "condition": {
+        "trigger": "latency_alert",
+        "requires_approval": false
+      }
+    },
+    "user_password_reset": {
+      "policy": "Password Reset Policy",
+      "requires_approval": true,
+      "approval_source": "helpdesk"
+    },
+    "user_access_request": {
+      "policy": "Access Request Approval",
+      "requires_approval": true,
+      "approval_source": "security_team"
+    },
+    "patch_installation": {
+      "policy": "Patch Installation Policy",
+      "requires_approval": true,
+      "approval_source": "change_manager"
+    },
+    "backup_restore": {
+      "policy": "Backup Restore Approval",
+      "requires_approval": true,
+      "approval_source": "backup_team"
+    },
+    "log_rotation": {
+      "policy": "Log Rotation Task",
+      "requires_approval": false
+    }
+  },
+  "Test": {
+    "restart_service": {
+      "policy": "Restart Service (Test)",
+      "requires_approval": false
+    },
+    "file_deletion": {
+      "policy": "File Deletion (Test)",
+      "requires_approval": false
+    },
+    "high_memory_utilization": {
+      "policy": "Memory Alert (Test)",
+      "requires_approval": false
+    },
+    "cpu_utilization": {
+      "policy": "CPU Alert (Test)",
+      "requires_approval": false
+    },
+    "disk_utilization": {
+      "policy": "Disk Cleanup (Test)",
+      "requires_approval": false
+    },
+    "filesystem_extension": {
+      "policy": "Filesystem Extension (Test)",
+      "requires_approval": false
+    },
+    "user_password_reset": {
+      "policy": "Password Reset (Test)",
+      "requires_approval": false
+    },
+    "user_access_request": {
+      "policy": "Access Request (Test)",
+      "requires_approval": false
+    },
+    "patch_installation": {
+      "policy": "Patch Installation (Test)",
+      "requires_approval": false
+    },
+    "backup_restore": {
+      "policy": "Backup Restore (Test)",
+      "requires_approval": false
+    }
+  },
+  "PET": {
+    "restart_service": {
+      "policy": "Restart Service (PET)",
+      "requires_approval": false
+    },
+    "file_deletion": {
+      "policy": "File Deletion (PET)",
+      "requires_approval": false
+    },
+    "cpu_utilization": {
+      "policy": "CPU Alert (PET)",
+      "requires_approval": false
+    },
+    "filesystem_extension": {
+      "policy": "Filesystem Extension (PET)",
+      "requires_approval": false
+    },
+    "user_password_reset": {
+      "policy": "Password Reset (PET)",
+      "requires_approval": false
+    },
+    "patch_installation": {
+      "policy": "Patch Installation (PET)",
+      "requires_approval": false
+    }
+  }
+}
